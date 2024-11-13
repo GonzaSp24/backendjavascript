@@ -2,10 +2,8 @@
 # EFI Práctica Profesionalizante "Python"
 
 **Desarrolladores:**
-- Spernanzoni GOnzalo
-**Profesor:**
-- Lucero Matias
----
+- Spernanzoni Gonzalo
+
 
 ## Comenzando 🚀
 
